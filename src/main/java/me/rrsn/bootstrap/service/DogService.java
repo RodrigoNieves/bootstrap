@@ -1,0 +1,4 @@
+package me.rrsn.bootstrap.service;
+
+public class DogService {
+}
